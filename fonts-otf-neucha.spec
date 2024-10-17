@@ -4,7 +4,7 @@ Version:	0.1
 Release:	0.1
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://jovanny.ru/free-fonts.html
+URL:		https://jovanny.ru/free-fonts.html
 Source0:	neucha.otf.xz
 BuildArch:	noarch
 BuildRequires:	freetype-tools
